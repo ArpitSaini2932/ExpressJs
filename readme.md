@@ -1,6 +1,3 @@
-Certainly! Here's the complete `README.md` for your Express.js project:
-
-```markdown
 # Express.js Project
 
 This is a simple Express.js project that demonstrates the usage of Express.js to build a basic backend application.
@@ -37,7 +34,6 @@ To set up this project locally, follow the steps below:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ArpitSaini2932/ExpressJs.git
-   ```
 
 2. **Navigate to the project directory**:
    ```bash
