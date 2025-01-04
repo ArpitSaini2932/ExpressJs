@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "init": "^0.1.2",
+    "nodemon": "^3.1.7"
+  },
+  "name": "vishu",
+  "version": "1.0.0",
+  "description": "it's about request ,respond and router",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kesponse"
+  ],
+  "author": "vishu",
+  "license": "ISC"
+}
